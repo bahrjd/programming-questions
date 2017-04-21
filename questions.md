@@ -18,3 +18,4 @@
 - Would it be a good idea for a new programmer to start with a large corporate buisness, or a small one?
 
 ## Jason
+- What does a LinkedIn Profile Makeoverist do?
