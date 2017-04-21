@@ -5,7 +5,8 @@
 - What on a resume would immediately make you want to reject it?
 
 ## Mike
-
+- what is UVP(Unique Value Proposition)?
+- do you only find talent for arizona or other statesas well?
 
 ## Josh
 - What do you find most satisfying about placing a candidate?
