@@ -14,6 +14,7 @@
 - Favorite coffee?
 
 ## Khali
-
+- What habits would get you imediatly rejected by a company?
+- Would it be a good idea for a new programmer to start with a large corporate buisness, or a small one?
 
 ## Jason
